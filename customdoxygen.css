@@ -570,7 +570,7 @@ table.memberdecls {
 
 .memitem {
 	padding: 0;
-	margin-bottom: 10px;
+	margin-bottom: 2px;
 	margin-right: 5px;
         -webkit-transition: box-shadow 0.5s linear;
         -moz-transition: box-shadow 0.5s linear;
@@ -586,14 +586,9 @@ table.memberdecls {
 }
 
 .memname {
-	   //font-family: "Courier New", courier, monospace;
-	   //font-family: Courier, Consolas, monospace;
 	   font-family: 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
 	   font-weight: 400;
-	   //font-size: 15px;
-	   font-size: 19px;
-        //font-weight: bold;
-        //margin-left: 6px;
+	   font-size: 15px;
 	   margin-left: 0px;
 }
 
@@ -624,8 +619,6 @@ table.memberdecls {
 	//background-repeat:repeat-x;
 	//background-color: #E2E8F2;
 	background-color: rgb(235, 238, 241);
-	//background-color: #ccc;
-	//background-color: white;
 	/* opera specific markup */
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
 	//border-top-right-radius: 4px;
